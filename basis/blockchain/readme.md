@@ -2,8 +2,8 @@
 
 
 
-**Twitter:** [@brycewai](https://twitter.com/brycewai)  
-**所有代码和教程开源在Github:** [https://github.com/BryceWai/Web3-Security](https://github.com/BryceWai/Web3-Security)
+
+**所有代码和教程开源在Github:** [https://github.com/yewbs/Web3-Security](https://github.com/yewbs/Web3-Security)
 
 ## 概念
 

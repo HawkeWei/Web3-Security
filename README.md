@@ -4,8 +4,8 @@
 
 ![img](./img/banner.png)  
 
-**Twitter:** [@brycewai](https://twitter.com/brycewai)  
-**所有Github和教程开源在Github:** [https://github.com/BryceWai/Web3-Security](https://github.com/BryceWai/Web3-Security)
+
+**所有Github和教程开源在Github:** [https://github.com/yewbs/Web3-Security](https://github.com/yewbs/Web3-Security)
 
 ## 区块链基础
 
@@ -17,7 +17,7 @@
 
 **F04: [以太坊模型详解](./basis/ethereum/readme.md)**
 
-**F05: [常用工具和资料汇总](https://brycewai.github.io/2022/08/07/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E5%92%8C%E8%B5%84%E6%96%99/)**
+**F05: [常用工具和资料汇总](https://yewbs.github.io/2022/08/07/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E5%92%8C%E8%B5%84%E6%96%99/)**
 
 ## Solidity
 
